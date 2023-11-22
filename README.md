@@ -32,7 +32,7 @@ Enter a given credentials to sign in into django server.
 Add some users according to the user.
 
 # OUTPUT
-![web project](https://github.com/PREM3112/ODD2023-WT-Ex-02-Admin/assets/145449383/0d732b5a-4a46-448a-94b2-c38ab001d62f)
+![Alt text](<Screenshot 2023-10-28 113944.png>)
 
 # RESULT 
 Output is successful.
